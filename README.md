@@ -6,7 +6,7 @@ gra zręcznościowa
 **Witaj użytkowniku!** <br>
 
 W tej grze przegrywasz, gdy czarny prostokąt dojedzie do końca planszy.
-Odznacz je wszystkie za pomocą myszki. Z czasem będzie coraz trudniej. <br>
+Odznacz je wszystkie za pomocą myszki.<br>  Z czasem będzie coraz trudniej. <br>
 
 Zbieraj bonusy!
 - **CZERWONY** daje Ci dodatkowe życie,
