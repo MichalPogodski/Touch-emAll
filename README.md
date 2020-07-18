@@ -1,7 +1,7 @@
 # Touch-emAll
 **gra zręcznościowa**  <br> <br>
 
-### Instrukcja
+## Instrukcja
 
 **Witaj użytkowniku!** <br>
 
@@ -23,6 +23,6 @@ Aby tego uniknąć, odpowiednio wczesnie zdetonuj bombę (to rozładuje pas oraz
 <br><br>
 
 
-### Kompilacja i uruchomienie 
+## Kompilacja i uruchomienie 
 - $ g++ -o TouchEmAll main.cpp -lGL -lGLU -lglut gra.cpp plansza.cpp prostokat.cpp <br>
 - $ ./TouchEmAll
