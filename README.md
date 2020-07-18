@@ -1,7 +1,7 @@
 # Touch-emAll
-gra zręcznościowa
+**gra zręcznościowa**  <br> <br>
 
-## Instrukcja
+### Instrukcja
 
 **Witaj użytkowniku!** <br>
 
