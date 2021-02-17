@@ -3,8 +3,8 @@
 #include <cstring>
 #define NDEBUG
 #include <GL/freeglut.h>
-#include"gra.h"
-#include "prostokat.h"
+#include"../include/gra.h"
+#include "../include/prostokat.h"
 Prostokat prst;
 
 

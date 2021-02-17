@@ -1,7 +1,7 @@
 #include<iostream>
 #define NDEBUG
 #include <GL/freeglut.h>
-#include "prostokat.h"
+#include "../include/prostokat.h"
 
 
 Prostokat::Prostokat() {

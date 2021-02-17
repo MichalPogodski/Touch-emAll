@@ -2,9 +2,9 @@
 #include <vector>
 #define NDEBUG
 #include <GL/glut.h>
-#include "prostokat.h"
-#include"plansza.h"
-#include "gra.h"
+#include "include/prostokat.h"
+#include"include/plansza.h"
+#include "include/gra.h"
 
 
 Gra g;

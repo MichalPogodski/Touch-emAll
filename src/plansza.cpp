@@ -1,7 +1,7 @@
 #include <iostream>
 #include<ctime>
-#include"plansza.h"
-#include "prostokat.h"
+#include"../include/plansza.h"
+#include "../include/prostokat.h"
 
 
 Plansza::Plansza() {
