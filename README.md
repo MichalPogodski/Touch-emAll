@@ -24,5 +24,5 @@ Aby tego uniknąć, odpowiednio wczesnie zdetonuj bombę (to rozładuje pas oraz
 
 
 ## Kompilacja i uruchomienie 
-- $ g++ -o TouchEmAll main.cpp -lGL -lGLU -lglut gra.cpp plansza.cpp prostokat.cpp <br>
+- $ g++ -o TouchEmAll main.cpp -lGL -lGLU -lglut src/gra.cpp src/plansza.cpp src/prostokat.cpp <br>
 - $ ./TouchEmAll
